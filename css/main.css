@@ -1,0 +1,48 @@
+.dark {
+  background-color: #000;
+  color: #fff;
+}
+
+.red {
+  background-color: red;
+}
+
+.highlight {
+  background-color: yellow;
+  border: 1px dashed orange;
+  padding: 2px;
+}
+
+.container {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.header {
+  margin: 0px;
+  padding: 4px;
+  width: 98.6%;
+  float: left;
+}
+.navbar {
+  padding: 4px;
+  width: 98.6%;
+  float: left;
+}
+.navbar a {
+  font-size: 20px;
+}
+.column-main {
+  width: 60%;
+  height: 660px;
+  float: left;
+  padding: 15px;
+}
+.column-main img {
+  float: right;
+}
+.sidebar {
+  width: 34%;
+  height: 660px;
+  float: left;
+  padding: 15px;
+}
